@@ -201,8 +201,6 @@ c68a5ece9750   vyjith/flaskrep:latest   "python3 app.py"   3 minutes ago   Up 3 
 If we run the same whithout any changes on docker image repository, it will skip the creation and build
 
 
-![image]()
-
 
 ## Conclusion
 
